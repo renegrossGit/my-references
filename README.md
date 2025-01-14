@@ -10,6 +10,7 @@
 - Building Scalable Java Microservices with Spring Boot and Spring Cloud (Dec 30, 2024)
 - Google Cloud Fundamentals: Core Infrastructure (Jan 2, 2025)
 - Introduction to Docker (Jan 8, 2025)
+- Essential Google Cloud Infrastructure: Foundation (98%)
 
 ## [DevOps](devOps\devOps.md)
 - Learning GitHub Action for DevOps CI/CD (Dec 22, 2024)
